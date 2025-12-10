@@ -1,0 +1,5 @@
+metric,value
+internet_service_distribution,"{'Fiber optic': 468, 'DSL': 329, 'No': 203}"
+avg_monthly_charges_per_contract,"{'Month-to-month': 67.3, 'One year': 68.18, 'Two year': 63.27}"
+tenure_group_counts,"{'New': 318, 'Regular': 268, 'Champion': 209, 'Loyal': 202}"
+pivot_table,"{'High': {'Champion': 133, 'Loyal': 122, 'New': 132, 'Regular': 152}, 'Low': {'Champion': 37, 'Loyal': 42, 'New': 92, 'Regular': 46}, 'Medium': {'Champion': 39, 'Loyal': 38, 'New': 94, 'Regular': 70}}"
